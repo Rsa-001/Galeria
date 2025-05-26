@@ -10,7 +10,7 @@ Docker
 Sudo privileges
 
 
-##📅 Download ##
+## 📅 Download ##
 
 You can download the .zip file containing the lab from Dockerlabs.es. After extracting it, you'll find:
 
