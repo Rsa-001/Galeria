@@ -3,7 +3,7 @@
 Gallery is a vulnerable web-based CTF machine distributed through Dockerlabs.es. It is packaged in .tar format and deployed automatically using the provided auto_deploy.sh script.
 
 
-##⚙️ Requirements ##
+## ⚙️ Requirements ##
 
 Docker
 
