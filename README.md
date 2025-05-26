@@ -1,12 +1,14 @@
-###🗈️ Gallery — CTF Challenge (Dockerlabs Edition) ###
+# 🗈️ Gallery — CTF Challenge (Dockerlabs Edition) #
 
 Gallery is a vulnerable web-based CTF machine distributed through Dockerlabs.es. It is packaged in .tar format and deployed automatically using the provided auto_deploy.sh script.
+
 
 ##⚙️ Requirements ##
 
 Docker
 
 Sudo privileges
+
 
 ##📅 Download ##
 
@@ -15,6 +17,7 @@ You can download the .zip file containing the lab from Dockerlabs.es. After extr
 gallery.tar → The Docker image
 
 auto_deploy.sh → Deployment script
+
 
 ## 🚀 How to Launch the Machine ##
 
@@ -28,6 +31,7 @@ This will automatically deploy the vulnerable machine and display its assigned I
 
 Press Ctrl+C when you're done to stop and remove the container.
 
+
 ## 🔧 Manual Method (Optional) ##
 
 ```
@@ -37,6 +41,7 @@ docker run -dit --rm <image_name_or_id>
 ```
 
 The image includes a predefined entrypoint that configures services and exposes necessary ports.
+
 
 ## 🔍 Writeup ##
 
@@ -48,6 +53,7 @@ https://rsas-book.gitbook.io/rsas-book/projects/my-ctfs/galeria
 ❗ Legal Disclaimer
 
 This machine is intentionally vulnerable and is meant to be used strictly in controlled environments for educational and ethical hacking purposes only.
+
 
 ## 📜 License ##
 
