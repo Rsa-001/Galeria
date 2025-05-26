@@ -59,7 +59,7 @@ https://rsas-book.gitbook.io/rsas-book/projects/my-ctfs/galeria
 
 ⚠️ This link contains spoilers and should be opened **only after attempting the machine yourself.
 
-❗ Legal Disclaimer
+## ❗ Legal Disclaimer ##
 
 This machine is intentionally vulnerable and is meant to be used strictly in controlled environments for educational and ethical hacking purposes only.
 
